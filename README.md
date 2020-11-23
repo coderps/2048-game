@@ -13,7 +13,7 @@ pip install readchar
 
 Use arrow keys to make left/right or up/down swipes on the matrix.
 
-![alt text](https://en.wikipedia.org/wiki/File:2048_Screenshot.png)
+![alt text](https://en.wikipedia.org/wiki/2048_(video_game)#/media/File:2048_Screenshot.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
